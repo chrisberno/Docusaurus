@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   title: 'Docusaurus @ Github Deploy by Chris Berno',
   tagline: 'Docs are cool',
   url: 'https://chrisberno.github.com',
-  baseUrl: process.env.IS_LOCAL ? '/' : 'production base url',
+  baseUrl: process.env.IS_LOCAL ? '/' : 'Docusaurus',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
